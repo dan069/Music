@@ -2,8 +2,12 @@
 
 > A Vue.js project
 
-![image](https://github.com/dan069/Music/blob/master/img/1.png)
-
+<div>
+<img width="250"  src="https://github.com/dan069/Music/blob/master/img/1.png"/>
+<img width="250"  src="https://github.com/dan069/Music/blob/master/img/2.png"/>
+<img width="250"  src="https://github.com/dan069/Music/blob/master/img/3.png"/>
+<img width="250"  src="https://github.com/dan069/Music/blob/master/img/4.png"/>
+</div>
 ## Build Setup
 
 ``` bash
