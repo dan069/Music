@@ -3,10 +3,10 @@
 > A Vue.js project
 
 <div>
-<img width="220"  src="https://github.com/dan069/Music/blob/master/img/1.png"/>
-<img width="220"  src="https://github.com/dan069/Music/blob/master/img/2.png"/>
-<img width="220"  src="https://github.com/dan069/Music/blob/master/img/3.png"/>
-<img width="220"  src="https://github.com/dan069/Music/blob/master/img/4.png"/>
+<img width="200"  src="https://github.com/dan069/Music/blob/master/img/1.png"/>
+<img width="200"  src="https://github.com/dan069/Music/blob/master/img/2.png"/>
+<img width="200"  src="https://github.com/dan069/Music/blob/master/img/3.png"/>
+<img width="200"  src="https://github.com/dan069/Music/blob/master/img/4.png"/>
 </div>
 ## Build Setup
 
