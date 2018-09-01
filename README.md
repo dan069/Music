@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![image](https://github.com/dan069/Music/blob/master/img/1.png)
+
 ## Build Setup
 
 ``` bash
