@@ -1,6 +1,7 @@
 # 163music
 
-> A Vue.js project
+> A Vue.js project  音乐网站
+
 
 <div>
 <img width="200"  src="https://github.com/dan069/Music/blob/master/img/1.png"/>
@@ -8,7 +9,9 @@
 <img width="200"  src="https://github.com/dan069/Music/blob/master/img/3.png"/>
 <img width="200"  src="https://github.com/dan069/Music/blob/master/img/4.png"/>
 </div>
-## Build Setup
+
+
+## 运行项目
 
 ``` bash
 # install dependencies
